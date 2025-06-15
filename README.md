@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">A passionate student developer at The Ohio State University</h3>
+<h3 align="center">Hello, I'm Thomas Shore, a Computer Science Engineering student entering my fourth year at The Ohio State University. I am seeking a summer 2026 internship in software engineering, where I can leverage my technical skills, problem-solving abilities, and passion for building impactful technology solutions. While I have a strong interest in financial technologies, I am eager to contribute to a dynamic team across any domain and gain valuable industry experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tshore2004&label=Profile%20views&color=0e75b6&style=flat" alt="tshore2004" /> </p>
 
